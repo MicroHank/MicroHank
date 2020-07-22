@@ -1,13 +1,12 @@
-### Hi there 👋
 <h3>:boy:<b>我是瀚文</b></h3>
-Skill:
+:bookmark_tabs: 後端開發:
   <li>HTML5, CSS, Javascript</li>
   <li>PHP, Laravel</li>
-  <li>Line Notify, 中央氣象局開放平台 API</li>
   <li>MySQL, MongoDB</li>
-  <li>Piano</li>
+  <li>Line Notify API, 中央氣象局開放平台 API</li>
+  <li>Linux, Shellscript</li>
 <hr/>
-:musical_note: Personal Hobby
+:musical_note: 個人嗜好:
   <li>Piano, Classical Music</li>
   <li>Jogging, Gym</li>
   <li>Movies</li>
