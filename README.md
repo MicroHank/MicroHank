@@ -10,7 +10,7 @@
 
 <div>
   <div style="float:left;width:200px;">
-    Test
+    Test Left
   </div>
   <div style="margin:0 auto;width:200px;">
     :musical_note: 個人嗜好:
@@ -18,5 +18,8 @@
       <li>Jogging, Gym</li>
       <li>Movies</li>
       <li>Eat</li>
+  </div>
+  <div style="float:right;width:200px;">
+    Test Right
   </div>
 </div>
