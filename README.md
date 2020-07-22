@@ -6,20 +6,18 @@
   <li>Line Notify API, 中央氣象局開放平台 API</li>
   <li>Linux, Shellscript</li>
 <hr/>
-![image](FB_IMG_1533359202697.jpg)
 
-<div style="width:100%;text-align:center;">
-  <div style="float:left;width:100%;background: #ff0000;">
-    Test Left
-  </div>
-  <div style="display: inline-block;margin:0 auto;width:100%;">
+<table border=0>
+  <tr>
+    <td>
+      Test Left
+    </td>
+    <td>
     :musical_note: 個人嗜好:
       <li>Piano, Classical Music</li>
       <li>Jogging, Gym</li>
       <li>Movies</li>
       <li>Eat</li>
-  </div>
-  <div style="float:right;width:100%;">
-    Test Right
-  </div>
-</div>
+    </td>
+  </tr>
+</table
