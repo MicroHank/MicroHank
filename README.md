@@ -6,9 +6,16 @@
   <li>Line Notify API, 中央氣象局開放平台 API</li>
   <li>Linux, Shellscript</li>
 <hr/>
-:musical_note: 個人嗜好:
-  <li>Piano, Classical Music</li>
-  <li>Jogging, Gym</li>
-  <li>Movies</li>
-  <li>Eat</li>
+<table>
+  <tr>
+    <td>test</td>
+    <td>
+      :musical_note: 個人嗜好:
+      <li>Piano, Classical Music</li>
+      <li>Jogging, Gym</li>
+      <li>Movies</li>
+      <li>Eat</li>
+    </td>
+  </tr>
+
 <hr/>
