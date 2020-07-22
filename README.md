@@ -8,8 +8,8 @@
 <hr/>
 ![image](FB_IMG_1533359202697.jpg)
 
-<div>
-  <div style="float:left;width:100%;">
+<div style="width:100%;text-align:center;">
+  <div style="float:left;width:100%;background: #ff0000;">
     Test Left
   </div>
   <div style="display: inline-block;margin:0 auto;width:100%;">
