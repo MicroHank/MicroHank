@@ -12,7 +12,7 @@
   <div style="float:left;width:200px;">
     Test Left
   </div>
-  <div style="margin:0 auto;width:200px;">
+  <div style="display: inline-block;margin:0 auto;width:200px;">
     :musical_note: 個人嗜好:
       <li>Piano, Classical Music</li>
       <li>Jogging, Gym</li>
