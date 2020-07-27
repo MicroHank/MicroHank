@@ -4,7 +4,7 @@
   <li>HTML5, CSS, Bootstrap, Jquery</li>
   <li>PHP, Laravel</li>
   <li>MySQL, MongoDB</li>
-  <li>Line Notify API, 中央氣象局開放平台 API</li>
+  <li>Line Notify API, Line Message API (聊天機器人), 中央氣象局開放平台 API</li>
   <li>Linux, Shellscript</li>
 <hr/>
 
